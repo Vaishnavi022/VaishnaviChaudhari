@@ -1,70 +1,130 @@
-# Getting Started with Create React App
+# Vaishnavi Narendra Chaudhari – Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio repository.  
+This project showcases my background, skills, projects, and experience as a **Computer Science and Engineering (Data Science)** student.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 👩‍💻 About Me
 
-### `npm start`
+I am a dedicated and hardworking Computer Science and Engineering (Data Science) student at **R. C. Patel Institute of Technology, Shirpur (DBATU University)**.  
+I have strong interest in software development, web technologies, and data-driven applications. I enjoy building practical projects and continuously improving my technical and communication skills.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I have completed **Japanese N5 certification** and am currently learning **Japanese N4**.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🎓 Education
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **B.Tech – Computer Science and Engineering (Data Science)**  
+  R. C. Patel Institute of Technology, Shirpur  
+  CGPA: 6.9  
+  _2023 – 2026_
 
-### `npm run build`
+- **Diploma – Computer Engineering**  
+  R. C. Patel Polytechnic, Shirpur (MSBTE)  
+  Percentage: 81.60%  
+  _2020 – 2023_
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **SSC (10th Standard)**  
+  H. R. Patel Secondary School, Shirpur  
+  Percentage: 93.00%  
+  _2020_
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💼 Experience & Training
 
-### `npm run eject`
+### Web Designing Development Intern  
+**NPIT Solutions, Nashik**  
+_July 2022 – August 2022_
+- Worked on front-end and back-end design for static and dynamic websites.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Java & Spring Training  
+**R3 Systems India Private Limited, Nashik**  
+_July 2025 – August 2025_
+- Hands-on training in Core Java, JDBC, and Spring MVC framework.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🛠️ Skills
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Programming
+- C, C++, Java, Advanced Java, Python
+- Data Structures using C
+- Android
 
-## Learn More
+### Web Technologies
+- HTML, CSS, JavaScript
+- Bootstrap, PHP
+- React.js
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Libraries & Frameworks
+- Bootstrap
+- OpenCV
+- Django
+- Spring MVC
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Database & Cloud
+- DBMS, SQL
+- AWS (Basics)
 
-### Code Splitting
+### Languages
+- English
+- Hindi
+- Marathi
+- Japanese (N5 completed, learning N4)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🚀 Projects
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Convolutional Image Recognition Chatbot  
+_Technologies: Python, Deep Learning, NLP_  
+- Building a chatbot that analyzes images, recognizes objects, and generates text or speech responses.
 
-### Making a Progressive Web App
+### College Finder Web Application  
+_Technologies: HTML, CSS, JavaScript, PHP_  
+- Developed a web-based system to help students find colleges based on location, stream, and cut-off marks.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### CivicMap – Local Issue Mapping Platform  
+_Technologies: Spring MVC, JSP, MySQL_  
+- Platform for citizens to report issues, authorities to update status, and admins to manage records.
 
-### Advanced Configuration
+### Library Management System  
+_Technologies: ASP.NET MVC, Bootstrap, jQuery, SQL Server_  
+- System to manage library operations including book search, issue, return, and record maintenance.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 🏆 Certifications
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Cisco Networking – CCNA Fundamentals  
+- Web Designing & Development – NPIT Solutions  
+- Japanese N5 Certification (College Level)
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🤝 Leadership & Activities
+
+- **Leadership Experience (2022–2023)**  
+  Organized and coordinated team efforts, managed timelines, and ensured project delivery.
+
+- **GDG Team Member – Documentation**  
+  Google Developer Groups (_2023 – Present_)  
+  Contributed to technical documentation and content organization.
+
+---
+
+## 📫 Contact
+
+- **Email:** chaudharivaishanavi4@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/vaishanavichaudhari/  
+- **GitHub:** https://github.com/Vaishnavi022/
+
+---
+
+## 📌 Note
+
+This portfolio is continuously evolving as I learn new technologies and work on new projects.  
+Feel free to explore, connect, or reach out for collaboration opportunities.
