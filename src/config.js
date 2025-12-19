@@ -7,6 +7,7 @@ import LinkedInLogo from "./assets/LinkedIn_Logo.png";
 import GithubLogo from "./assets/Github_logo.png";
 import ChatbotImage from "./assets/bot.jpeg";
 import mapImage from "./assets/map.jpeg";
+import ContactIcon from "./assets/contact_icon.svg";
 
 export const CONFIG = {
   design: [
@@ -41,7 +42,7 @@ export const CONFIG = {
       main_line: "ENGINEERING STUDENT",
       image: <HeroImage />,
       primary_button: "Hire me",
-      primary_button_url: "#contact",
+      primary_button_url: "mailto:chaudharivaishanavi4@gmail.com",
       primary_button_icon: "",
       secondary_button: "Download CV",
       secondary_button_url: "/Vaishnavi Narendra Chaudhari.pdf",
@@ -116,8 +117,8 @@ export const CONFIG = {
     },
     {
       name: "Contact",
-      url: "mailto:chaudharivaishanavi4@gmail.com"
-      // icon: ContactIcon
+      url: "mailto:chaudharivaishanavi4@gmail.com",
+      icon: ContactIcon
     }
   ]
 };
